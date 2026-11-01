@@ -1,2 +1,4 @@
 -r requirements.txt
 pytest>=8
+sqlglot>=25
+duckdb>=1.0
