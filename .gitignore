@@ -1,0 +1,9 @@
+# Generated data (regenerate with: python -m generator)
+data/
+sample/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
